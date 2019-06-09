@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "264408079384",
+    "firebase_url": "https://myshop-c34cc.firebaseio.com",
+    "project_id": "myshop-c34cc",
+    "storage_bucket": "myshop-c34cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264408079384:android:7eb630a898811a8e",
+        "android_client_info": {
+          "package_name": "com.ahmedcancels.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264408079384-pcgq1mskfiumbm27o1bugrrr9bhkg5hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmedcancels.myshop",
+            "certificate_hash": "8ff1c4e2a99dd8d6030f277d28bd65e4e0ed8db5"
+          }
+        },
+        {
+          "client_id": "264408079384-vgb5ojf90j5q8t0fqos57j8t8b7j9chi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOzBRmEOe1jAR4aMZs9mPlyxFQXWFuYxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264408079384-vgb5ojf90j5q8t0fqos57j8t8b7j9chi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
