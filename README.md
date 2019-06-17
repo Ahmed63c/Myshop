@@ -1,10 +1,18 @@
 # Myshop
+
 E-commerce like amazon app
+
+
 
 ##fuctionalities
 
-  _Firebase database 
-  _Admin panel
-  _material design
-  -picasso 
-  _nav activity
+  -  Firebase  authentication
+  -  Firebase database
+  -  Admin panel to control all product credintials(phone=01285272622,pass=admin)
+  -  material design
+  -  picasso library
+  -  nav activity
+  -  Receycler view
+  -  circle image view library
+  -  image cropper library
+  
