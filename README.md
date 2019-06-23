@@ -1,6 +1,7 @@
 # Myshop
 
-E-commerce like amazon app
+E-commerce like app
+
 
 
 
@@ -16,3 +17,6 @@ E-commerce like amazon app
   -  circle image view library
   -  image cropper library
   
+
+
+For learning propose
